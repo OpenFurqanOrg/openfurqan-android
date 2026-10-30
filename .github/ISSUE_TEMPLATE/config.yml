@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Write to us
+    url: mailto:contact@openfurqan.com
+    about: Questions, or anything you'd rather not post publicly.
+  - name: Privacy policy
+    url: https://openfurqan.com/privacy
+    about: What the app keeps on your phone, and what it downloads.

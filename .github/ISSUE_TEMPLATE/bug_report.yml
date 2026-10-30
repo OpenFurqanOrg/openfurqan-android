@@ -1,0 +1,43 @@
+name: Report a bug
+description: Something in the app isn't working as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Tell us what went wrong. A screenshot helps a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we see it too?
+      description: The steps that lead to it.
+      placeholder: |
+        1. Open Al-Baqarah
+        2. Tap the word ...
+        3. ...
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: In Settings, at the bottom (for example 1.0.2).
+    validations:
+      required: true
+  - type: input
+    id: phone
+    attributes:
+      label: Phone and Android version
+      placeholder: Samsung Galaxy A15, Android 14
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: App language
+      options:
+        - English
+        - বাংলা
+        - हिन्दी
+        - اردو
