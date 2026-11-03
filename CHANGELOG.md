@@ -1,12 +1,15 @@
 # What's new in OpenFurqan for Android
 
-## Coming next
-- **Jump directly to an ayah:** tap the reader header to open the Ayah picker at your current verse.
-  Choose an ayah using the same number and slider controls as Page, then open it below the header.
+## 1.0.4 — 1 November 2026
+### New
+- **Go straight to any ayah:** tap the reader's header to open the Ayah picker at the verse you're on.
+  Choose an ayah with the same number and slider controls as Page, and it opens below the header.
 
-## 1.0.3
-- A deeper teal app icon, matching the store artwork
-- Contact moves to contact@openfurqan.com
+## 1.0.3 — 30 October 2026
+### Changed
+- **The tab bar shows where you are:** the selected tab's icon fills, the others stay outlined.
+- **A deeper teal app icon,** matching the store artwork.
+- Contact moves to contact@openfurqan.com.
 
 ## 1.0.2 — 20 October 2026
 ### New
