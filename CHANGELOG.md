@@ -1,5 +1,10 @@
 # What's new in OpenFurqan for Android
 
+## 1.0.5 — 3 November 2026
+### Changed
+- **New tab bar icons:** solid symbols for Read, Study and Practice, with the selected tab shown in colour.
+- The reader's long-press menu icons are refined to match.
+
 ## 1.0.4 — 1 November 2026
 ### New
 - **Go straight to any ayah:** tap the reader's header to open the Ayah picker at the verse you're on.
