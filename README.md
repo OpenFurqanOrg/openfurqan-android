@@ -28,12 +28,13 @@ its meaning and root, read the hadith beside each ayah, and compare translations
 
 ## Read
 - Surah, Juz and the 604-page Mushaf
-- Translations in 75 languages, and 44 tafsirs
+- Translations in 75 languages, among them English, Bangla, Urdu, Hindi, Indonesian, Turkish and Persian
+- 44 tafsirs, among them Ibn Kathir, Maarif-ul-Quran, Tazkirul Quran, al-Muyassar, al-Tabari, al-Qurtubi and as-Sa'di
 - Word-by-word meanings and transliteration under every ayah
 - A choice of Arabic fonts, tajweed colours and a quiet focus mode
 
 ## Listen
-- 16 reciters, the text following the recitation, most word by word
+- 16 reciters, among them Mishary Alafasy, Abdul Basit, Al-Husary, Al-Minshawi, As-Sudais and Saad Al-Ghamdi, the text following the recitation, most word by word
 - Repeat an ayah, a range or a whole surah; keep listening in the background
 - Hear any single word pronounced
 
