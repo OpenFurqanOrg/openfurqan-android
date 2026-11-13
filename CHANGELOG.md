@@ -1,5 +1,20 @@
 # What's new in OpenFurqan for Android
 
+## 1.0.8 — 13 November 2026
+### New
+- **Skim long surahs and every juz:** as you scroll a surah of 40 ayahs or more, or a juz, a thin
+  line shows at the right edge. Hold it and drag, with the ayah you have reached beside it.
+- **The ayahs of prostration say so:** under each of the fifteen, a quiet line reads "Sajdah:
+  prostration is made on reciting this ayah".
+- **The lock screen opens the reader:** a tap on the player opens the ayah being recited.
+
+### Changed
+- **A tap on the page brings the reader's header back,** and another puts it away.
+- **A juz opens straight on its text,** and ends with the next juz, as a surah ends with the next surah.
+- **The lock screen shows the surah's name in the Mushaf's calligraphy,** cream on ink.
+- **A surah recited straight through is one track** on the lock screen: its bar spans the whole
+  surah, and the previous and next buttons step by ayah.
+
 ## 1.0.7 — 13 November 2026
 ### New
 - **Tajweed, taught as lessons:** hear each rule in three ayahs with only that rule coloured, then
