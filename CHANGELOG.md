@@ -1,5 +1,33 @@
 # What's new in OpenFurqan for Android
 
+## 1.0.7 — 13 November 2026
+### New
+- **Tajweed, taught as lessons:** hear each rule in three ayahs with only that rule coloured, then
+  find it yourself in a new ayah. No score and no "wrong".
+- **Daily Sunnah follows the day:** the reading for now comes first, with why it is read and the
+  hadith that tells of it, and a quiet "Read tonight" once you have read it.
+- **Translations in 17 more languages:** Afar, Asante Twi, Belarusian, Catalan, Cebuano, Chewa,
+  Dagbani, Fulah, Ganda, Georgian, Iranun, Kannada, Lingala, Luhya, Malagasy, Shona and Zulu, for
+  92 languages in all.
+- **Al-Mukhtasar in Arabic, Persian, Indonesian and Russian,** for 48 tafsirs in all.
+
+### Changed
+- **A plainer reader header** that steps aside while you read, and becomes the player while a
+  recitation plays.
+- **Practice is calmer:** one screen with Start, clearer buttons, each word said aloud, and a kind
+  ending to every session. Activity shows your week and what you know by heart, without pressure.
+- Learn leads with Duas, and the note stays on the ayah's page.
+
+## 1.0.6 — 7 November 2026
+### New
+- **Study, rebuilt:** it opens on Continue, with today's Sunnah reading and a word of the day. Each
+  ayah is one page with its Words, Tafsir, Tajweed and Hadith, where you can compare translations
+  and tafsirs, repeat the recitation and keep a note.
+- **The Quran's duas as a book:** 88 duas, laid out like a printed page, by surah or by need.
+
+### Fixed
+- In Practice, studying a word's root brings you back to your card.
+
 ## 1.0.5 — 3 November 2026
 ### Changed
 - **New tab bar icons:** solid symbols for Read, Study and Practice, with the selected tab shown in colour.
