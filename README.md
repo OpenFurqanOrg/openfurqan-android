@@ -28,8 +28,8 @@ its meaning and root, read the hadith beside each ayah, and compare translations
 
 ## Read
 - Surah, Juz and the 604-page Mushaf
-- Translations in 75 languages, among them English, Bangla, Urdu, Hindi, Indonesian, Turkish and Persian
-- 44 tafsirs, among them Ibn Kathir, Maarif-ul-Quran, Tazkirul Quran, al-Muyassar, al-Tabari, al-Qurtubi and as-Sa'di
+- Translations in 92 languages, among them English, Bangla, Urdu, Hindi, Indonesian, Turkish and Persian
+- 48 tafsirs, among them Ibn Kathir, Maarif-ul-Quran, Tazkirul Quran, al-Muyassar, al-Tabari, al-Qurtubi and as-Sa'di
 - Word-by-word meanings and transliteration under every ayah
 - A choice of Arabic fonts, tajweed colours and a quiet focus mode
 
@@ -42,6 +42,8 @@ its meaning and root, read the hadith beside each ayah, and compare translations
 - Tap a word for its grammar, its root and its entry in Lane's Lexicon
 - Every one of the Quran's 1,651 roots, with every word built from it and every ayah it appears in
 - Hadith from seven collections, beside the ayahs they speak of
+- Tajweed taught as short lessons, one rule at a time
+- The Quran's duas as a book of 88, and the Daily Sunnah readings with why each is read
 - Search by Arabic, translation, word meaning, root or ayah number
 - A notebook for written and voice notes, and saved ayahs
 

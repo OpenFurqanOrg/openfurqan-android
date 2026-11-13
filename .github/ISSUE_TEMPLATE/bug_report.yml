@@ -22,7 +22,7 @@ body:
     id: version
     attributes:
       label: App version
-      description: In Settings, at the bottom (for example 1.0.5).
+      description: In Settings, at the bottom (for example 1.0.7).
     validations:
       required: true
   - type: input
