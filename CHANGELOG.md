@@ -1,5 +1,27 @@
 # What's new in OpenFurqan for Android
 
+## 1.0.9 — 15 November 2026
+### New
+- **Tap a word to hear it and see its meaning:** a small card opens above the word; tap the card
+  for Word details. The Word meanings switch in the reader's settings turns it off.
+- **Every entry Lane has for a root** in the Lexicon tab, each under its headword, with its page in
+  the printed lexicon and whether it is from the Supplement. 164 roots that had no Lane entry now
+  have one.
+- **Go straight to an ayah from Read's search:** type 2:255, 44 5, or a surah's name and an ayah
+  number such as Dukhan 5, in any of the app's four languages.
+
+### Changed
+- **Search finds the Quran as people spell it:** الرحمن, الصلاة and الكتاب find their ayahs, several
+  words match in any order, and the best match comes first. Your chosen translations and the word
+  meanings in the app's language are searched too.
+- **The Root tab opens on the form of the word you tapped,** set plainly as a dictionary entry: one
+  meaning, the root's forms, and three ayahs with that form.
+- **A word heard once is kept on the phone,** so it plays at once after that, offline too.
+- **The app is 7.7 MB smaller:** root pages arrive a letter at a time, the first time one is opened.
+
+### Fixed
+- Offline, a word played from a surah recording on the phone is now the right word.
+
 ## 1.0.8 — 13 November 2026
 ### New
 - **Skim long surahs and every juz:** as you scroll a surah of 40 ayahs or more, or a juz, a thin

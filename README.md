@@ -36,15 +36,15 @@ its meaning and root, read the hadith beside each ayah, and compare translations
 ## Listen
 - 16 reciters, among them Mishary Alafasy, Abdul Basit, Al-Husary, Al-Minshawi, As-Sudais and Saad Al-Ghamdi, the text following the recitation, most word by word
 - Repeat an ayah, a range or a whole surah; keep listening in the background
-- Hear any single word pronounced
+- Tap any word to hear it and see its meaning; a word heard once plays offline too
 
 ## Study
-- Tap a word for its grammar, its root and its entry in Lane's Lexicon
+- Tap a word for its grammar, its root and every entry Lane's Lexicon has for it
 - Every one of the Quran's 1,651 roots, with every word built from it and every ayah it appears in
 - Hadith from seven collections, beside the ayahs they speak of
 - Tajweed taught as short lessons, one rule at a time
 - The Quran's duas as a book of 88, and the Daily Sunnah readings with why each is read
-- Search by Arabic, translation, word meaning, root or ayah number
+- Search the Arabic as you would spell it, your translations, word meanings, roots or an ayah number
 - A notebook for written and voice notes, and saved ayahs
 
 ## Memorize
