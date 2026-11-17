@@ -1,5 +1,23 @@
 # What's new in OpenFurqan for Android
 
+## 1.0.11 — 17 November 2026
+### New
+- **Rate OpenFurqan without leaving it:** Google Play's own rating sheet, offered rarely and only at
+  a quiet moment, such as a surah read to its end.
+- **A colour key** opens under the Tajweed colors switch.
+
+### Changed
+- **Tajweed colours change no letter:** every mark stays exactly where it belongs, and the colours
+  show clearly on every theme. They work in IndoPak too.
+- **Word by word runs from the right,** in the ayah's order, shows how each word is said under it
+  while Transliteration is on, and marks the word being recited.
+
+## 1.0.10 — 16 November 2026
+### New
+- **The Quran in the IndoPak script,** in two styles: the classic Taj Company style and IndoPak
+  Nastaleeq. Choose either under Arabic font. Word taps, meanings and the recited word's highlight
+  work as before, and both work offline from the first launch.
+
 ## 1.0.9 — 15 November 2026
 ### New
 - **Tap a word to hear it and see its meaning:** a small card opens above the word; tap the card

@@ -31,7 +31,7 @@ its meaning and root, read the hadith beside each ayah, and compare translations
 - Translations in 92 languages, among them English, Bangla, Urdu, Hindi, Indonesian, Turkish and Persian
 - 48 tafsirs, among them Ibn Kathir, Maarif-ul-Quran, Tazkirul Quran, al-Muyassar, al-Tabari, al-Qurtubi and as-Sa'di
 - Word-by-word meanings and transliteration under every ayah
-- A choice of Arabic fonts, tajweed colours and a quiet focus mode
+- The Madani or the IndoPak script, a choice of Arabic fonts, tajweed colours and a quiet focus mode
 
 ## Listen
 - 16 reciters, among them Mishary Alafasy, Abdul Basit, Al-Husary, Al-Minshawi, As-Sudais and Saad Al-Ghamdi, the text following the recitation, most word by word
